@@ -1,0 +1,14 @@
+ul{
+    background-color: gold;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+   
+}
+li{
+    padding: 20px;
+    color: aliceblue;
+}
+.father{
+    text-decoration: none;
+}
